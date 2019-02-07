@@ -1,0 +1,3788 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="OGRGeoJSON" id="OGRGeoJSON">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="FEATURE_ID" type="int"></SimpleField>
+	<SimpleField name="ADDRESS" type="string"></SimpleField>
+	<SimpleField name="ZIP" type="int"></SimpleField>
+	<SimpleField name="INVENTORY_ID" type="float"></SimpleField>
+	<SimpleField name="DISTRICT" type="string"></SimpleField>
+	<SimpleField name="OWNERSHIP_TYPE" type="string"></SimpleField>
+	<SimpleField name="OWNER" type="string"></SimpleField>
+	<SimpleField name="REG_SPACES" type="int"></SimpleField>
+	<SimpleField name="ACCESSIBLE" type="int"></SimpleField>
+	<SimpleField name="XCOORD" type="float"></SimpleField>
+	<SimpleField name="YCOORD" type="float"></SimpleField>
+	<SimpleField name="LONGITUDE" type="float"></SimpleField>
+	<SimpleField name="LATITUDE" type="float"></SimpleField>
+	<SimpleField name="ADDRESS_NUM" type="int"></SimpleField>
+	<SimpleField name="ON_PREFIX" type="string"></SimpleField>
+	<SimpleField name="ON_STNAME" type="string"></SimpleField>
+	<SimpleField name="ON_STYPE" type="string"></SimpleField>
+	<SimpleField name="ON_SUFFIX" type="string"></SimpleField>
+	<SimpleField name="CROSS_PREFIX" type="string"></SimpleField>
+	<SimpleField name="CROSS_STNAME" type="string"></SimpleField>
+	<SimpleField name="CROSS_STYPE" type="string"></SimpleField>
+	<SimpleField name="CROSS_SUFFIX" type="string"></SimpleField>
+</Schema>
+<Folder><name>OGRGeoJSON</name>
+  <Placemark>
+	<name>SeaTac Center Garage P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="FEATURE_ID">570145</SimpleData>
+		<SimpleData name="ADDRESS">15247 International Blvd</SimpleData>
+		<SimpleData name="ZIP">98188</SimpleData>
+		<SimpleData name="INVENTORY_ID">903</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">62</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1280435.46</SimpleData>
+		<SimpleData name="YCOORD">173437.3</SimpleData>
+		<SimpleData name="LONGITUDE">-122.28877291</SimpleData>
+		<SimpleData name="LATITUDE">47.46613482</SimpleData>
+		<SimpleData name="ADDRESS_NUM">15247</SimpleData>
+		<SimpleData name="ON_STNAME">International</SimpleData>
+		<SimpleData name="ON_STYPE">Blvd</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.288770501373165,47.466136724062558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Congregational Church of Mercer Island P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="FEATURE_ID">570147</SimpleData>
+		<SimpleData name="ADDRESS">4545 Island Crest Way</SimpleData>
+		<SimpleData name="ZIP">98040</SimpleData>
+		<SimpleData name="INVENTORY_ID">634</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER">MI</SimpleData>
+		<SimpleData name="REG_SPACES">28</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1297050.01</SimpleData>
+		<SimpleData name="YCOORD">208814.68</SimpleData>
+		<SimpleData name="LONGITUDE">-122.22419804</SimpleData>
+		<SimpleData name="LATITUDE">47.5639472</SimpleData>
+		<SimpleData name="ADDRESS_NUM">4545</SimpleData>
+		<SimpleData name="ON_STNAME">Island Crest</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">46th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.224196118411314,47.563949205639894</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastgate Congregational Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="FEATURE_ID">570024</SimpleData>
+		<SimpleData name="ADDRESS">15318 SE Newport Way</SimpleData>
+		<SimpleData name="ZIP">98006</SimpleData>
+		<SimpleData name="INVENTORY_ID">551</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1318610.40988</SimpleData>
+		<SimpleData name="YCOORD">210934.236121</SimpleData>
+		<SimpleData name="LONGITUDE">-122.13702673</SimpleData>
+		<SimpleData name="LATITUDE">47.57079161</SimpleData>
+		<SimpleData name="ADDRESS_NUM">15318</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">Newport</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">152nd</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.137024890812242,47.570793804069552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brickyard Road P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="FEATURE_ID">570036</SimpleData>
+		<SimpleData name="ADDRESS">15530 Juanita-Woodinville Way NE</SimpleData>
+		<SimpleData name="ZIP">98011</SimpleData>
+		<SimpleData name="INVENTORY_ID">702</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC/S</SimpleData>
+		<SimpleData name="REG_SPACES">443</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1306967.53893</SimpleData>
+		<SimpleData name="YCOORD">273271.696283</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18863073</SimpleData>
+		<SimpleData name="LATITUDE">47.7411121</SimpleData>
+		<SimpleData name="ADDRESS_NUM">15530</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Juanita-Woodinville</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.188629638759764,47.741114131530622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tukwila P&amp;R </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="FEATURE_ID">570051</SimpleData>
+		<SimpleData name="ADDRESS">13435 Interurban Ave S</SimpleData>
+		<SimpleData name="ZIP">98168</SimpleData>
+		<SimpleData name="INVENTORY_ID">746</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">267</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1285295.15869</SimpleData>
+		<SimpleData name="YCOORD">179447.982605</SimpleData>
+		<SimpleData name="LONGITUDE">-122.26958269</SimpleData>
+		<SimpleData name="LATITUDE">47.48286041</SimpleData>
+		<SimpleData name="ADDRESS_NUM">13435</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Interurban</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.269580376749317,47.482862335022965</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Olson Pl SW/Myers Way P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="FEATURE_ID">570055</SimpleData>
+		<SimpleData name="ADDRESS">9000 Olson Pl SW</SimpleData>
+		<SimpleData name="ZIP">98106</SimpleData>
+		<SimpleData name="INVENTORY_ID">738</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">100</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1269104.37509</SimpleData>
+		<SimpleData name="YCOORD">193265.734001</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33613911</SimpleData>
+		<SimpleData name="LATITUDE">47.51988729</SimpleData>
+		<SimpleData name="ADDRESS_NUM">9000</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Olson</SimpleData>
+		<SimpleData name="ON_STYPE">Pl</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.336136984714088,47.519889137731525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SR 18/Auburn- Black Diamond Rd P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="FEATURE_ID">570061</SimpleData>
+		<SimpleData name="ADDRESS">SR 18/Auburn-Black Diamond Rd</SimpleData>
+		<SimpleData name="ZIP">98092</SimpleData>
+		<SimpleData name="INVENTORY_ID">751</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">26</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1305773.53404</SimpleData>
+		<SimpleData name="YCOORD">112527.159914</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18203603</SimpleData>
+		<SimpleData name="LATITUDE">47.30044379</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">SR 18</SimpleData>
+		<SimpleData name="ON_STYPE"></SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Auburn-Black Diamond</SimpleData>
+		<SimpleData name="CROSS_STYPE">Rd</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.182032707534745,47.300445887760773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Renton P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="FEATURE_ID">570065</SimpleData>
+		<SimpleData name="ADDRESS">205 S 7th St</SimpleData>
+		<SimpleData name="ZIP">98055</SimpleData>
+		<SimpleData name="INVENTORY_ID">743</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">385</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1298946.98269</SimpleData>
+		<SimpleData name="YCOORD">175838.046207</SimpleData>
+		<SimpleData name="LONGITUDE">-122.21411969</SimpleData>
+		<SimpleData name="LATITUDE">47.47365032</SimpleData>
+		<SimpleData name="ADDRESS_NUM">205</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">7th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.214117343224359,47.473652350936014</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northgate Mall Garage P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="FEATURE_ID">570074</SimpleData>
+		<SimpleData name="ADDRESS">300 NE 103rd St</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">758</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="REG_SPACES">280</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1273116.83415</SimpleData>
+		<SimpleData name="YCOORD">261950.994994</SimpleData>
+		<SimpleData name="LONGITUDE">-122.3252915</SimpleData>
+		<SimpleData name="LATITUDE">47.70836555</SimpleData>
+		<SimpleData name="ADDRESS_NUM">300</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">103rd St</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_STNAME">3rd</SimpleData>
+		<SimpleData name="CROSS_STYPE">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.325290208482329,47.708367348071661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northgate Transit Center P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="FEATURE_ID">570093</SimpleData>
+		<SimpleData name="ADDRESS">10200 1st Ave NE</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">753</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">90</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1272355.8162</SimpleData>
+		<SimpleData name="YCOORD">259748.684095</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32820823</SimpleData>
+		<SimpleData name="LATITUDE">47.70228862</SimpleData>
+		<SimpleData name="ADDRESS_NUM">10200</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">1st</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.328206909017752,47.702290408683936</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tukwila Station Surface Lot P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="FEATURE_ID">570106</SimpleData>
+		<SimpleData name="ADDRESS">7301 S Longacres Way</SimpleData>
+		<SimpleData name="ZIP">98188</SimpleData>
+		<SimpleData name="INVENTORY_ID">871.1</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">390</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1292458.09227</SimpleData>
+		<SimpleData name="YCOORD">171375.480861</SimpleData>
+		<SimpleData name="LONGITUDE">-122.24002298</SimpleData>
+		<SimpleData name="LATITUDE">47.46109615</SimpleData>
+		<SimpleData name="ADDRESS_NUM">7301</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">Longacres</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.240020548725099,47.461098123049887</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newport Covenant Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="FEATURE_ID">570113</SimpleData>
+		<SimpleData name="ADDRESS">12800 SE Coal Creek Pkwy</SimpleData>
+		<SimpleData name="ZIP">98006</SimpleData>
+		<SimpleData name="INVENTORY_ID">514</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">75</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1310259.50013</SimpleData>
+		<SimpleData name="YCOORD">208893.328074</SimpleData>
+		<SimpleData name="LONGITUDE">-122.17070733</SimpleData>
+		<SimpleData name="LATITUDE">47.56480455</SimpleData>
+		<SimpleData name="ADDRESS_NUM">12800</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">Coal Creek</SimpleData>
+		<SimpleData name="ON_STYPE">Pkwy</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Newport</SimpleData>
+		<SimpleData name="CROSS_STYPE">Way</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.170705442787124,47.564806668066737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fred Meyer P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="FEATURE_ID">570003</SimpleData>
+		<SimpleData name="ADDRESS">365 Renton Center Way SW</SimpleData>
+		<SimpleData name="ZIP">98057</SimpleData>
+		<SimpleData name="INVENTORY_ID">533</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">21</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1297584.58</SimpleData>
+		<SimpleData name="YCOORD">177663.89</SimpleData>
+		<SimpleData name="LONGITUDE">-122.21976056</SimpleData>
+		<SimpleData name="LATITUDE">47.4785879</SimpleData>
+		<SimpleData name="ADDRESS_NUM">365</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Renter Center</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.219758230859256,47.478589926665585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ober Park Annex (Vashon Parks Dept)  P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="FEATURE_ID">570013</SimpleData>
+		<SimpleData name="ADDRESS">17106 Vashon Hwy SW</SimpleData>
+		<SimpleData name="ZIP">98070</SimpleData>
+		<SimpleData name="INVENTORY_ID">737.1</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">9</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1237917.26199</SimpleData>
+		<SimpleData name="YCOORD">169110.160004</SimpleData>
+		<SimpleData name="LONGITUDE">-122.46025965</SimpleData>
+		<SimpleData name="LATITUDE">47.45194041</SimpleData>
+		<SimpleData name="ADDRESS_NUM">17106</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Vashon</SimpleData>
+		<SimpleData name="ON_STYPE">Hwy</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.460257165664018,47.451942076923345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Way Transit Center P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="FEATURE_ID">570032</SimpleData>
+		<SimpleData name="ADDRESS">31621 23rd Ave S</SimpleData>
+		<SimpleData name="ZIP">98003</SimpleData>
+		<SimpleData name="INVENTORY_ID">877</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">1190</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1275377.37501</SimpleData>
+		<SimpleData name="YCOORD">119342.344118</SimpleData>
+		<SimpleData name="LONGITUDE">-122.30503701</SimpleData>
+		<SimpleData name="LATITUDE">47.31759763</SimpleData>
+		<SimpleData name="ADDRESS_NUM">31621</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">23rd</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX">S</SimpleData>
+		<SimpleData name="CROSS_STNAME">317th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.30503377589659,47.317599474872928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercer Island Presbyterian Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="FEATURE_ID">570112</SimpleData>
+		<SimpleData name="ADDRESS">3605 84th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98040</SimpleData>
+		<SimpleData name="INVENTORY_ID">511</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">30</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1296409.12794</SimpleData>
+		<SimpleData name="YCOORD">213798.475848</SimpleData>
+		<SimpleData name="LONGITUDE">-122.22715901</SimpleData>
+		<SimpleData name="LATITUDE">47.57757622</SimpleData>
+		<SimpleData name="ADDRESS_NUM">3605</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">84th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">36th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.227157145151153,47.577578216215578</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Mercer Center - Mercer Island QFC P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="FEATURE_ID">570115</SimpleData>
+		<SimpleData name="ADDRESS">84th Ave SE/SE 68th St</SimpleData>
+		<SimpleData name="ZIP">98040</SimpleData>
+		<SimpleData name="INVENTORY_ID">516</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">21</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1296644</SimpleData>
+		<SimpleData name="YCOORD">200628</SimpleData>
+		<SimpleData name="LONGITUDE">-122.22524267</SimpleData>
+		<SimpleData name="LATITUDE">47.54148703</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">84th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">68th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.225240646584638,47.541489035595269</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maple Valley Town Square P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="FEATURE_ID">570141</SimpleData>
+		<SimpleData name="ADDRESS">26520 Maple Valley-Black Diamond Rd SE</SimpleData>
+		<SimpleData name="ZIP">98038</SimpleData>
+		<SimpleData name="INVENTORY_ID">652</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">97</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1346641.87698</SimpleData>
+		<SimpleData name="YCOORD">135441.506517</SimpleData>
+		<SimpleData name="LONGITUDE">-122.01877581</SimpleData>
+		<SimpleData name="LATITUDE">47.36509863</SimpleData>
+		<SimpleData name="ADDRESS_NUM">26520</SimpleData>
+		<SimpleData name="ON_STNAME">Maple Val-Blk Diamon</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">264th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.018772885308863,47.365101120784828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bellevue Christian Reformed Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="FEATURE_ID">570011</SimpleData>
+		<SimpleData name="ADDRESS">1221 148th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98007</SimpleData>
+		<SimpleData name="INVENTORY_ID">538</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1317331.60299</SimpleData>
+		<SimpleData name="YCOORD">229168.56469</SimpleData>
+		<SimpleData name="LONGITUDE">-122.14346363</SimpleData>
+		<SimpleData name="LATITUDE">47.62071414</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1221</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">148th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.143462021098046,47.620716297202677</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kingsgate P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="FEATURE_ID">570047</SimpleData>
+		<SimpleData name="ADDRESS">13001 116th Way NE</SimpleData>
+		<SimpleData name="ZIP">98034</SimpleData>
+		<SimpleData name="INVENTORY_ID">719</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">502</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1306967.05762</SimpleData>
+		<SimpleData name="YCOORD">264536.674892</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18800789</SimpleData>
+		<SimpleData name="LATITUDE">47.71716892</SimpleData>
+		<SimpleData name="ADDRESS_NUM">13001</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">116th</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.1880066920438,47.717170961725124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newport Hills P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="FEATURE_ID">570070</SimpleData>
+		<SimpleData name="ADDRESS">5115 113th Pl SE</SimpleData>
+		<SimpleData name="ZIP">98006</SimpleData>
+		<SimpleData name="INVENTORY_ID">722</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">275</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1305822.14067</SimpleData>
+		<SimpleData name="YCOORD">205943.660163</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18846778</SimpleData>
+		<SimpleData name="LATITUDE">47.55650653</SimpleData>
+		<SimpleData name="ADDRESS_NUM">5115</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">113th</SimpleData>
+		<SimpleData name="ON_STYPE">Pl</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.188465848292324,47.556508616218281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Airport/Spokane P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="FEATURE_ID">570094</SimpleData>
+		<SimpleData name="ADDRESS">Airport Way/Spokane St</SimpleData>
+		<SimpleData name="ZIP">98134</SimpleData>
+		<SimpleData name="INVENTORY_ID">749</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">25</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1272688.00014</SimpleData>
+		<SimpleData name="YCOORD">212228.187874</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32312413</SimpleData>
+		<SimpleData name="LATITUDE">47.57205389</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Airport</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Spokane</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.323122231023405,47.572055730638745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holy Spirit Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="FEATURE_ID">570109</SimpleData>
+		<SimpleData name="ADDRESS">10021 NE 124th St</SimpleData>
+		<SimpleData name="ZIP">98034</SimpleData>
+		<SimpleData name="INVENTORY_ID">509</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">40</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1302158.17906</SimpleData>
+		<SimpleData name="YCOORD">262385.64891</SimpleData>
+		<SimpleData name="LONGITUDE">-122.20738437</SimpleData>
+		<SimpleData name="LATITUDE">47.71103917</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">124th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">100th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.207383120320884,47.711041179570856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Peasley Canyon Rd/West Valley Hwy P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="FEATURE_ID">570095</SimpleData>
+		<SimpleData name="ADDRESS">Peasley Canyon Rd/West Valley Hwy</SimpleData>
+		<SimpleData name="ZIP">98001</SimpleData>
+		<SimpleData name="INVENTORY_ID">739</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">54</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1287063.99993</SimpleData>
+		<SimpleData name="YCOORD">113464.226938</SimpleData>
+		<SimpleData name="LONGITUDE">-122.25749347</SimpleData>
+		<SimpleData name="LATITUDE">47.30208847</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Peasley Canyon</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">West Valley</SimpleData>
+		<SimpleData name="CROSS_STYPE">Hwy</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.257490148638922,47.302090406672022</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kent Station Surface Lot P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="FEATURE_ID">570105</SimpleData>
+		<SimpleData name="ADDRESS">400 1st Ave N</SimpleData>
+		<SimpleData name="ZIP">98032</SimpleData>
+		<SimpleData name="INVENTORY_ID">872.1</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">119</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1293613.14</SimpleData>
+		<SimpleData name="YCOORD">143649.16</SimpleData>
+		<SimpleData name="LONGITUDE">-122.23331607</SimpleData>
+		<SimpleData name="LATITUDE">47.38515519</SimpleData>
+		<SimpleData name="ADDRESS_NUM">301</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Railroad</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">N</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.23331321420774,47.385157173839126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Sammamish P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="FEATURE_ID">570133</SimpleData>
+		<SimpleData name="ADDRESS">3015 228th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98074</SimpleData>
+		<SimpleData name="INVENTORY_ID">761</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">265</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1343629.6114</SimpleData>
+		<SimpleData name="YCOORD">214711.743621</SimpleData>
+		<SimpleData name="LONGITUDE">-122.03592592</SimpleData>
+		<SimpleData name="LATITUDE">47.58226289</SimpleData>
+		<SimpleData name="ADDRESS_NUM">3015</SimpleData>
+		<SimpleData name="ON_STNAME">228th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">Issaquah Pine Lake</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.035924190203517,47.582265287748093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aurora Community Church of the Nazarene P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="FEATURE_ID">570076</SimpleData>
+		<SimpleData name="ADDRESS">1900 N 175th St</SimpleData>
+		<SimpleData name="ZIP">98155</SimpleData>
+		<SimpleData name="INVENTORY_ID">576</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">116</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1270613.14084</SimpleData>
+		<SimpleData name="YCOORD">279421.403095</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33684488</SimpleData>
+		<SimpleData name="LATITUDE">47.75611768</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1900</SimpleData>
+		<SimpleData name="ON_PREFIX">N</SimpleData>
+		<SimpleData name="ON_STNAME">N 175th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_STNAME">20th </SimpleData>
+		<SimpleData name="CROSS_STYPE">Pl</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.336843789353836,47.756119410622503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Twin Lakes P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="FEATURE_ID">570097</SimpleData>
+		<SimpleData name="ADDRESS">21st Ave SW &amp; SW 344th St</SimpleData>
+		<SimpleData name="ZIP">98023</SimpleData>
+		<SimpleData name="INVENTORY_ID">742</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">600</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1261418.35965</SimpleData>
+		<SimpleData name="YCOORD">111146.001524</SimpleData>
+		<SimpleData name="LONGITUDE">-122.36064437</SimpleData>
+		<SimpleData name="LATITUDE">47.29438638</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">21st</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SW</SimpleData>
+		<SimpleData name="CROSS_STNAME">344th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.360641011514815,47.294388102541205</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tibbetts Lot P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">29</SimpleData>
+		<SimpleData name="FEATURE_ID">570099</SimpleData>
+		<SimpleData name="ADDRESS">1675 Newport Way NW</SimpleData>
+		<SimpleData name="ZIP">98027</SimpleData>
+		<SimpleData name="INVENTORY_ID">755</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">170</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1337036.25862</SimpleData>
+		<SimpleData name="YCOORD">199655.585265</SimpleData>
+		<SimpleData name="LONGITUDE">-122.06166444</SimpleData>
+		<SimpleData name="LATITUDE">47.54070625</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1675</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Newport</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">NW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">17th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NW</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.061662494532229,47.540708629009302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Overlake P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="FEATURE_ID">570100</SimpleData>
+		<SimpleData name="ADDRESS">2650 152nd Ave NE</SimpleData>
+		<SimpleData name="ZIP">98052</SimpleData>
+		<SimpleData name="INVENTORY_ID">724</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">203</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1319171.62</SimpleData>
+		<SimpleData name="YCOORD">233613.71</SimpleData>
+		<SimpleData name="LONGITUDE">-122.13630879</SimpleData>
+		<SimpleData name="LATITUDE">47.63298433</SimpleData>
+		<SimpleData name="ADDRESS_NUM">2650</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">152nd</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">24th</SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.136307237538091,47.632986494163958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northgate TC Extension P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="FEATURE_ID">570101</SimpleData>
+		<SimpleData name="ADDRESS">3rd Ave NE &amp; NE 103rd St</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">753.1</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">448</SimpleData>
+		<SimpleData name="ACCESSIBLE">10</SimpleData>
+		<SimpleData name="XCOORD">1272888.35898</SimpleData>
+		<SimpleData name="YCOORD">259981.832338</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32606422</SimpleData>
+		<SimpleData name="LATITUDE">47.702956</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">103rd</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">3rd</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.326062902237226,47.702957796784773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kent Garage at Kent Station P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="FEATURE_ID">570104</SimpleData>
+		<SimpleData name="ADDRESS">320 Ramsay Way</SimpleData>
+		<SimpleData name="ZIP">98032</SimpleData>
+		<SimpleData name="INVENTORY_ID">872</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">877</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1293420.18</SimpleData>
+		<SimpleData name="YCOORD">14355.21</SimpleData>
+		<SimpleData name="LONGITUDE">-122.22466079</SimpleData>
+		<SimpleData name="LATITUDE">47.03075371</SimpleData>
+		<SimpleData name="ADDRESS_NUM">301</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Railroad</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">N</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.224656790699171,47.030753881837164</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>SW Spokane St P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="FEATURE_ID">570096</SimpleData>
+		<SimpleData name="ADDRESS">3599 26th Ave SW</SimpleData>
+		<SimpleData name="ZIP">98126</SimpleData>
+		<SimpleData name="INVENTORY_ID">744</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">55</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1261949.61</SimpleData>
+		<SimpleData name="YCOORD">212248.7</SimpleData>
+		<SimpleData name="LONGITUDE">-122.36661916</SimpleData>
+		<SimpleData name="LATITUDE">47.57153198</SimpleData>
+		<SimpleData name="ADDRESS_NUM">3599</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">26th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.366617262680379,47.571533763373758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Bend P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="FEATURE_ID">570135</SimpleData>
+		<SimpleData name="ADDRESS">W North Bend Way and Sydney Ave</SimpleData>
+		<SimpleData name="ZIP">98045</SimpleData>
+		<SimpleData name="INVENTORY_ID">762</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">C</SimpleData>
+		<SimpleData name="REG_SPACES">80</SimpleData>
+		<SimpleData name="ACCESSIBLE">4</SimpleData>
+		<SimpleData name="XCOORD">1404250.83389</SimpleData>
+		<SimpleData name="YCOORD">182442.12381</SimpleData>
+		<SimpleData name="LONGITUDE">-121.7886921</SimpleData>
+		<SimpleData name="LATITUDE">47.49613431</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">W</SimpleData>
+		<SimpleData name="ON_STNAME">North Bend</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="CROSS_STNAME">Sydney</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.788690367467836,47.496137015089722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Redmond Ridge P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="FEATURE_ID">570136</SimpleData>
+		<SimpleData name="ADDRESS">NE Cedar Park Cres &amp; Redmond Ridge Dr NE</SimpleData>
+		<SimpleData name="ZIP">98053</SimpleData>
+		<SimpleData name="INVENTORY_ID">632</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER">P</SimpleData>
+		<SimpleData name="REG_SPACES">52</SimpleData>
+		<SimpleData name="ACCESSIBLE">4</SimpleData>
+		<SimpleData name="XCOORD">1344792.67</SimpleData>
+		<SimpleData name="YCOORD">252371.44</SimpleData>
+		<SimpleData name="LONGITUDE">-122.03359325</SimpleData>
+		<SimpleData name="LATITUDE">47.68554377</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">Cedar Park</SimpleData>
+		<SimpleData name="ON_STYPE">Cres</SimpleData>
+		<SimpleData name="CROSS_STNAME">Redmond Ridge</SimpleData>
+		<SimpleData name="CROSS_STYPE">Dr</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.033592019938027,47.685546075037763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Seattle Interim (Lot A) P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="FEATURE_ID">570143</SimpleData>
+		<SimpleData name="ADDRESS">402 NE 103rd St</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">906</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">155</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1273329.78</SimpleData>
+		<SimpleData name="YCOORD">260107.49</SimpleData>
+		<SimpleData name="LONGITUDE">-122.3242817</SimpleData>
+		<SimpleData name="LATITUDE">47.70332388</SimpleData>
+		<SimpleData name="ADDRESS_NUM">402</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">103rd</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.324280390023858,47.703325678475998</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Revive Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="FEATURE_ID">570077</SimpleData>
+		<SimpleData name="ADDRESS">11500 Redmond-Woodinville Rd NE</SimpleData>
+		<SimpleData name="ZIP">98052</SimpleData>
+		<SimpleData name="INVENTORY_ID">599</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">10</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1320753.69677</SimpleData>
+		<SimpleData name="YCOORD">258926.192465</SimpleData>
+		<SimpleData name="LONGITUDE">-122.13162464</SimpleData>
+		<SimpleData name="LATITUDE">47.70244153</SimpleData>
+		<SimpleData name="ADDRESS_NUM">11500</SimpleData>
+		<SimpleData name="ON_STNAME">Redmond-Woodinville</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">116th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.131623417154188,47.702443666884612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kenmore Community Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="FEATURE_ID">570025</SimpleData>
+		<SimpleData name="ADDRESS">7504 NE Bothell Way</SimpleData>
+		<SimpleData name="ZIP">98028</SimpleData>
+		<SimpleData name="INVENTORY_ID">557</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">15</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1294358.50998</SimpleData>
+		<SimpleData name="YCOORD">279324.067853</SimpleData>
+		<SimpleData name="LONGITUDE">-122.24031831</SimpleData>
+		<SimpleData name="LATITUDE">47.7570816</SimpleData>
+		<SimpleData name="ADDRESS_NUM">7504</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">Bothell</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Kenmore P&amp;R</SimpleData>
+		<SimpleData name="CROSS_STYPE">Rd</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.240317240614957,47.757083529734814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auburn Garage at Auburn Station P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="FEATURE_ID">570027</SimpleData>
+		<SimpleData name="ADDRESS">23 A St SW</SimpleData>
+		<SimpleData name="ZIP">98001</SimpleData>
+		<SimpleData name="INVENTORY_ID">873</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">520</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1293613.87261</SimpleData>
+		<SimpleData name="YCOORD">115151.99011</SimpleData>
+		<SimpleData name="LONGITUDE">-122.23122416</SimpleData>
+		<SimpleData name="LATITUDE">47.3070438</SimpleData>
+		<SimpleData name="ADDRESS_NUM">23</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">A</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.231220873059783,47.307045794966683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auburn Surface Lot at Auburn Station P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="FEATURE_ID">570028</SimpleData>
+		<SimpleData name="ADDRESS">23 A St SW</SimpleData>
+		<SimpleData name="ZIP">98001</SimpleData>
+		<SimpleData name="INVENTORY_ID">873.1</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">113</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1293624.78511</SimpleData>
+		<SimpleData name="YCOORD">115061.078821</SimpleData>
+		<SimpleData name="LONGITUDE">-122.23117353</SimpleData>
+		<SimpleData name="LATITUDE">47.30679516</SimpleData>
+		<SimpleData name="ADDRESS_NUM">23</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">A</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.231170241941967,47.306797149032718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercer Is United Methodist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="FEATURE_ID">570111</SimpleData>
+		<SimpleData name="ADDRESS">7070 SE 24th St</SimpleData>
+		<SimpleData name="ZIP">98040</SimpleData>
+		<SimpleData name="INVENTORY_ID">512</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">18</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1292191.05524</SimpleData>
+		<SimpleData name="YCOORD">218330.357964</SimpleData>
+		<SimpleData name="LONGITUDE">-122.24458231</SimpleData>
+		<SimpleData name="LATITUDE">47.58978757</SimpleData>
+		<SimpleData name="ADDRESS_NUM">7070</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">24th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">70th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.244580493931764,47.589789528570762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Our Saviour's Baptist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="FEATURE_ID">570123</SimpleData>
+		<SimpleData name="ADDRESS">701 S 320th St</SimpleData>
+		<SimpleData name="ZIP">98003</SimpleData>
+		<SimpleData name="INVENTORY_ID">531</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">24</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1270283.58505</SimpleData>
+		<SimpleData name="YCOORD">118487.773378</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32550135</SimpleData>
+		<SimpleData name="LATITUDE">47.31498643</SimpleData>
+		<SimpleData name="ADDRESS_NUM">701</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">320th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">8th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.325498105141818,47.314988234038488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fairwood Assembly of God P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">43</SimpleData>
+		<SimpleData name="FEATURE_ID">570118</SimpleData>
+		<SimpleData name="ADDRESS">13120 SE 192nd St</SimpleData>
+		<SimpleData name="ZIP">98058</SimpleData>
+		<SimpleData name="INVENTORY_ID">570</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">25</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1310638.39233</SimpleData>
+		<SimpleData name="YCOORD">159927.935061</SimpleData>
+		<SimpleData name="LONGITUDE">-122.16573981</SimpleData>
+		<SimpleData name="LATITUDE">47.43060457</SimpleData>
+		<SimpleData name="ADDRESS_NUM">13120</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">192nd</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.165737228843938,47.43060671772264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bellevue Foursquare Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="FEATURE_ID">570005</SimpleData>
+		<SimpleData name="ADDRESS">2015 Richards Rd</SimpleData>
+		<SimpleData name="ZIP">98005</SimpleData>
+		<SimpleData name="INVENTORY_ID">916</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1311923.88871</SimpleData>
+		<SimpleData name="YCOORD">218786.167164</SimpleData>
+		<SimpleData name="LONGITUDE">-122.16465977</SimpleData>
+		<SimpleData name="LATITUDE">47.59200071</SimpleData>
+		<SimpleData name="ADDRESS_NUM">2015</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Richards</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.164658010263267,47.592002834067905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kenmore P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="FEATURE_ID">570043</SimpleData>
+		<SimpleData name="ADDRESS">7346 NE Bothell Way</SimpleData>
+		<SimpleData name="ZIP">98028</SimpleData>
+		<SimpleData name="INVENTORY_ID">704</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">606</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1294249.60833</SimpleData>
+		<SimpleData name="YCOORD">279348.537601</SimpleData>
+		<SimpleData name="LONGITUDE">-122.2407628</SimpleData>
+		<SimpleData name="LATITUDE">47.75714321</SimpleData>
+		<SimpleData name="ADDRESS_NUM">7346</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">Bothell</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.240761727580463,47.75714514279322</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Evergreen Point Bridge P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="FEATURE_ID">570146</SimpleData>
+		<SimpleData name="ADDRESS">SR 520/76th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98039</SimpleData>
+		<SimpleData name="INVENTORY_ID">715</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">38</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1294113.55</SimpleData>
+		<SimpleData name="YCOORD">235595.32</SimpleData>
+		<SimpleData name="LONGITUDE">-122.23806962</SimpleData>
+		<SimpleData name="LATITUDE">47.63720777</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_STNAME">76th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">SR 520</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.238068020655973,47.637209739731325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cross of Christ Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="FEATURE_ID">570149</SimpleData>
+		<SimpleData name="ADDRESS">411 156th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98007</SimpleData>
+		<SimpleData name="INVENTORY_ID">912</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1319960.458</SimpleData>
+		<SimpleData name="YCOORD">226690.8023</SimpleData>
+		<SimpleData name="LONGITUDE">-122.13263591</SimpleData>
+		<SimpleData name="LATITUDE">47.61404452</SimpleData>
+		<SimpleData name="ADDRESS_NUM">411</SimpleData>
+		<SimpleData name="ON_STNAME">156th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">4th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.132634275010957,47.614046694917562</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake Hills Baptist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="FEATURE_ID">570150</SimpleData>
+		<SimpleData name="ADDRESS">506 140th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98005</SimpleData>
+		<SimpleData name="INVENTORY_ID">913</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1314832.811</SimpleData>
+		<SimpleData name="YCOORD">223681.1345</SimpleData>
+		<SimpleData name="LONGITUDE">-122.15321288</SimpleData>
+		<SimpleData name="LATITUDE">47.60555557</SimpleData>
+		<SimpleData name="ADDRESS_NUM">506</SimpleData>
+		<SimpleData name="ON_STNAME">140th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">5th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.153211186358419,47.605557709653517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Overlake Park Presbyterian Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="FEATURE_ID">570151</SimpleData>
+		<SimpleData name="ADDRESS">1836 156th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98007</SimpleData>
+		<SimpleData name="INVENTORY_ID">915</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1320178.572</SimpleData>
+		<SimpleData name="YCOORD">231322.132</SimpleData>
+		<SimpleData name="LONGITUDE">-122.13206854</SimpleData>
+		<SimpleData name="LATITUDE">47.62674954</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1836</SimpleData>
+		<SimpleData name="ON_STNAME">156th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">Northup</SimpleData>
+		<SimpleData name="CROSS_STYPE">Way</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.13206696065086,47.626751718392235</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Neighborhood Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="FEATURE_ID">570152</SimpleData>
+		<SimpleData name="ADDRESS">625 140th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98005</SimpleData>
+		<SimpleData name="INVENTORY_ID">917</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1314554.82</SimpleData>
+		<SimpleData name="YCOORD">227555.9538</SimpleData>
+		<SimpleData name="LONGITUDE">-122.15460921</SimpleData>
+		<SimpleData name="LATITUDE">47.61616371</SimpleData>
+		<SimpleData name="ADDRESS_NUM">625</SimpleData>
+		<SimpleData name="ON_STNAME">140th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.154607573061512,47.616165845539442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Northgate Transit Center Interim (Lot B) P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="FEATURE_ID">570153</SimpleData>
+		<SimpleData name="ADDRESS">9580 1st Ave NE</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">908</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">84</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1272343.097</SimpleData>
+		<SimpleData name="YCOORD">259045.8921</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32820444</SimpleData>
+		<SimpleData name="LATITUDE">47.70036161</SimpleData>
+		<SimpleData name="ADDRESS_NUM">9580</SimpleData>
+		<SimpleData name="ON_STNAME">1st</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.328203115741772,47.700363404365348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Renton Bible Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="FEATURE_ID">570154</SimpleData>
+		<SimpleData name="ADDRESS">973 Union Ave NE</SimpleData>
+		<SimpleData name="ZIP">98059</SimpleData>
+		<SimpleData name="INVENTORY_ID">921</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1311317.441</SimpleData>
+		<SimpleData name="YCOORD">184847.737</SimpleData>
+		<SimpleData name="LONGITUDE">-122.16473812</SimpleData>
+		<SimpleData name="LATITUDE">47.49894392</SimpleData>
+		<SimpleData name="ADDRESS_NUM">973</SimpleData>
+		<SimpleData name="ON_STNAME">Union</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.164735935521492,47.49894607814862</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Seattle P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="FEATURE_ID">570155</SimpleData>
+		<SimpleData name="ADDRESS">10001 1st Ave NE</SimpleData>
+		<SimpleData name="ZIP">98133</SimpleData>
+		<SimpleData name="INVENTORY_ID">706</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">102</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1272224.028</SimpleData>
+		<SimpleData name="YCOORD">259489.9913</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32872294</SimpleData>
+		<SimpleData name="LATITUDE">47.70157253</SimpleData>
+		<SimpleData name="ADDRESS_NUM">10001</SimpleData>
+		<SimpleData name="ON_STNAME">1st</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">100th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.328721616051538,47.701574322535727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Redmond P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="FEATURE_ID">570132</SimpleData>
+		<SimpleData name="ADDRESS">16201 NE 83rd St</SimpleData>
+		<SimpleData name="ZIP">98052</SimpleData>
+		<SimpleData name="INVENTORY_ID">726</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">377</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1322503.38</SimpleData>
+		<SimpleData name="YCOORD">249549.39</SimpleData>
+		<SimpleData name="LONGITUDE">-122.12388128</SimpleData>
+		<SimpleData name="LATITUDE">47.67681948</SimpleData>
+		<SimpleData name="ADDRESS_NUM">16201</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">83rd</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_STNAME">Redmond P&amp;R</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.123879942333573,47.676821642725969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burien TC P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="FEATURE_ID">570137</SimpleData>
+		<SimpleData name="ADDRESS">14900 4th Ave SW</SimpleData>
+		<SimpleData name="ZIP">98166</SimpleData>
+		<SimpleData name="INVENTORY_ID">732</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">P</SimpleData>
+		<SimpleData name="REG_SPACES">488</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1268518.47</SimpleData>
+		<SimpleData name="YCOORD">175132.64</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33707623</SimpleData>
+		<SimpleData name="LATITUDE">47.47015369</SimpleData>
+		<SimpleData name="ADDRESS_NUM">209</SimpleData>
+		<SimpleData name="ON_PREFIX">SW</SimpleData>
+		<SimpleData name="ON_STNAME">148th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SW</SimpleData>
+		<SimpleData name="CROSS_STNAME">146th </SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.337073842192439,47.470155533595886</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Matthew Lutheran P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="FEATURE_ID">570138</SimpleData>
+		<SimpleData name="ADDRESS">2516 NE 16th St</SimpleData>
+		<SimpleData name="ZIP">98056</SimpleData>
+		<SimpleData name="INVENTORY_ID">640</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">128</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1306624.64</SimpleData>
+		<SimpleData name="YCOORD">187839.25</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18393178</SimpleData>
+		<SimpleData name="LATITUDE">47.50691976</SimpleData>
+		<SimpleData name="ADDRESS_NUM">2215</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">16th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.183929620996096,47.506921869100033</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kennydale United Methodist P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="FEATURE_ID">570001</SimpleData>
+		<SimpleData name="ADDRESS">3005 Park Avenue N</SimpleData>
+		<SimpleData name="ZIP">98056</SimpleData>
+		<SimpleData name="INVENTORY_ID">579</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1302309.3581</SimpleData>
+		<SimpleData name="YCOORD">192009.405912</SimpleData>
+		<SimpleData name="LONGITUDE">-122.20168865</SimpleData>
+		<SimpleData name="LATITUDE">47.51814149</SimpleData>
+		<SimpleData name="ADDRESS_NUM">3005</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Park</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">N</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.201686539583932,47.518143554976312</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Normandy Park Congregational P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="FEATURE_ID">570002</SimpleData>
+		<SimpleData name="ADDRESS">19247 1st Ave S</SimpleData>
+		<SimpleData name="ZIP">98166</SimpleData>
+		<SimpleData name="INVENTORY_ID">581</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">10</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1268480.9386</SimpleData>
+		<SimpleData name="YCOORD">160498.482934</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33607286</SimpleData>
+		<SimpleData name="LATITUDE">47.43003998</SimpleData>
+		<SimpleData name="ADDRESS_NUM">19247</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">1st</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.336070249820494,47.430041802664753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klahanie #3 P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="FEATURE_ID">570004</SimpleData>
+		<SimpleData name="ADDRESS">Klahanie Dr SE &amp; 252nd Ave SE</SimpleData>
+		<SimpleData name="ZIP">98029</SimpleData>
+		<SimpleData name="INVENTORY_ID">515</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">30</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1351795.22</SimpleData>
+		<SimpleData name="YCOORD">209442.88</SimpleData>
+		<SimpleData name="LONGITUDE">-122.00251949</SimpleData>
+		<SimpleData name="LATITUDE">47.56816492</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Klahanie</SimpleData>
+		<SimpleData name="ON_STYPE">Dr</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">252nd</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.002517708061717,47.568167408976379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vashon Episcopal Church of the Holy Spirit P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="FEATURE_ID">570006</SimpleData>
+		<SimpleData name="ADDRESS">15420 Vashon Hwy SW</SimpleData>
+		<SimpleData name="ZIP">98070</SimpleData>
+		<SimpleData name="INVENTORY_ID">589</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">23</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1238084.97357</SimpleData>
+		<SimpleData name="YCOORD">174407.180821</SimpleData>
+		<SimpleData name="LONGITUDE">-122.46003438</SimpleData>
+		<SimpleData name="LATITUDE">47.46646859</SimpleData>
+		<SimpleData name="ADDRESS_NUM">15420</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Vashon</SimpleData>
+		<SimpleData name="ON_STYPE">Hwy</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.460031980324032,47.466470277094103</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Korean Zion Presbyterian Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="FEATURE_ID">570008</SimpleData>
+		<SimpleData name="ADDRESS">17920 Meridian Ave N</SimpleData>
+		<SimpleData name="ZIP">98155</SimpleData>
+		<SimpleData name="INVENTORY_ID">504</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">25</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1271148.07748</SimpleData>
+		<SimpleData name="YCOORD">280590.911228</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33476328</SimpleData>
+		<SimpleData name="LATITUDE">47.75935188</SimpleData>
+		<SimpleData name="ADDRESS_NUM">17920</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Meridian</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">N</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.334762205544337,47.759353603145506</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Andrews Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="FEATURE_ID">570009</SimpleData>
+		<SimpleData name="ADDRESS">2650 148th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98007</SimpleData>
+		<SimpleData name="INVENTORY_ID">911</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1317691.55978</SimpleData>
+		<SimpleData name="YCOORD">216366.721177</SimpleData>
+		<SimpleData name="LONGITUDE">-122.14112233</SimpleData>
+		<SimpleData name="LATITUDE">47.58563986</SimpleData>
+		<SimpleData name="ADDRESS_NUM">2650</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">148th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.14112055549576,47.585642031716738</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kent Covenant Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="FEATURE_ID">570010</SimpleData>
+		<SimpleData name="ADDRESS">12010 SE 240th St</SimpleData>
+		<SimpleData name="ZIP">98031</SimpleData>
+		<SimpleData name="INVENTORY_ID">521</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1306600.9999</SimpleData>
+		<SimpleData name="YCOORD">144192.062135</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18093582</SimpleData>
+		<SimpleData name="LATITUDE">47.38727877</SimpleData>
+		<SimpleData name="ADDRESS_NUM">12010</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">240th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.180932992920376,47.387280879256011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tibbetts Valley Park P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="FEATURE_ID">570012</SimpleData>
+		<SimpleData name="ADDRESS">965 12th Ave NW</SimpleData>
+		<SimpleData name="ZIP">98027</SimpleData>
+		<SimpleData name="INVENTORY_ID">540</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">27</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1337973.35286</SimpleData>
+		<SimpleData name="YCOORD">199218.39923</SimpleData>
+		<SimpleData name="LONGITUDE">-122.05784281</SimpleData>
+		<SimpleData name="LATITUDE">47.53954879</SimpleData>
+		<SimpleData name="ADDRESS_NUM">965</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">12th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX">NW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Newport</SimpleData>
+		<SimpleData name="CROSS_STYPE">Way</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.057840858190616,47.53955117867249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunrise United Methodist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="FEATURE_ID">570015</SimpleData>
+		<SimpleData name="ADDRESS">150 S 356th St</SimpleData>
+		<SimpleData name="ZIP">98003</SimpleData>
+		<SimpleData name="INVENTORY_ID">541</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">25</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1268277.00708</SimpleData>
+		<SimpleData name="YCOORD">106823.45818</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33267282</SimpleData>
+		<SimpleData name="LATITUDE">47.28290823</SimpleData>
+		<SimpleData name="ADDRESS_NUM">150</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">356th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.3326693933342,47.282910010698636</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>All Saints Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="FEATURE_ID">570016</SimpleData>
+		<SimpleData name="ADDRESS">27225 Military Rd S</SimpleData>
+		<SimpleData name="ZIP">98001</SimpleData>
+		<SimpleData name="INVENTORY_ID">542</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">75</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1278500.58833</SimpleData>
+		<SimpleData name="YCOORD">133602.503694</SimpleData>
+		<SimpleData name="LONGITUDE">-122.29353894</SimpleData>
+		<SimpleData name="LATITUDE">47.35684748</SimpleData>
+		<SimpleData name="ADDRESS_NUM">27225</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Military</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.293535928162783,47.356849348926076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Columbas Episcopal Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="FEATURE_ID">570017</SimpleData>
+		<SimpleData name="ADDRESS">26715 Military Rd S</SimpleData>
+		<SimpleData name="ZIP">98032</SimpleData>
+		<SimpleData name="INVENTORY_ID">543</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">15</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1278879.2512</SimpleData>
+		<SimpleData name="YCOORD">135395.099823</SimpleData>
+		<SimpleData name="LONGITUDE">-122.29214859</SimpleData>
+		<SimpleData name="LATITUDE">47.36178064</SimpleData>
+		<SimpleData name="ADDRESS_NUM">26715</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Military</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.292145608708353,47.361782516057119</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Community Bible Fellowship P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="FEATURE_ID">570021</SimpleData>
+		<SimpleData name="ADDRESS">11227 Renton Ave S</SimpleData>
+		<SimpleData name="ZIP">98178</SimpleData>
+		<SimpleData name="INVENTORY_ID">591</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">29</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1290113.84029</SimpleData>
+		<SimpleData name="YCOORD">186389.818477</SimpleData>
+		<SimpleData name="LONGITUDE">-122.25061543</SimpleData>
+		<SimpleData name="LATITUDE">47.502133</SimpleData>
+		<SimpleData name="ADDRESS_NUM">11227</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Renton</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX">S</SimpleData>
+		<SimpleData name="CROSS_STNAME">112th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Pl</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.250613218143926,47.502134948941922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Renton City Municipal Garage P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="FEATURE_ID">570023</SimpleData>
+		<SimpleData name="ADDRESS">655 S 2nd St</SimpleData>
+		<SimpleData name="ZIP">98055</SimpleData>
+		<SimpleData name="INVENTORY_ID">569</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">150</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1300357.81224</SimpleData>
+		<SimpleData name="YCOORD">178538.410577</SimpleData>
+		<SimpleData name="LONGITUDE">-122.20861108</SimpleData>
+		<SimpleData name="LATITUDE">47.48112139</SimpleData>
+		<SimpleData name="ADDRESS_NUM">655</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">2nd</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Logan</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.208608775008045,47.481123441738582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sonrise Evangelical Free Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="FEATURE_ID">570026</SimpleData>
+		<SimpleData name="ADDRESS">610 SW Roxbury</SimpleData>
+		<SimpleData name="ZIP">98108</SimpleData>
+		<SimpleData name="INVENTORY_ID">553</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">10</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1267235.02</SimpleData>
+		<SimpleData name="YCOORD">192482.07</SimpleData>
+		<SimpleData name="LONGITUDE">-122.34364075</SimpleData>
+		<SimpleData name="LATITUDE">47.51763898</SimpleData>
+		<SimpleData name="ADDRESS_NUM">610</SimpleData>
+		<SimpleData name="ON_PREFIX">SW</SimpleData>
+		<SimpleData name="ON_STNAME">Roxbury</SimpleData>
+		<SimpleData name="ON_STYPE"></SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">6th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SW</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.343638606960823,47.517640820233737</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Issaquah Highlands P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">71</SimpleData>
+		<SimpleData name="FEATURE_ID">570030</SimpleData>
+		<SimpleData name="ADDRESS">1755 Highlands Dr</SimpleData>
+		<SimpleData name="ZIP">98027</SimpleData>
+		<SimpleData name="INVENTORY_ID">759</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">1010</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1347549.60038</SimpleData>
+		<SimpleData name="YCOORD">201074.783639</SimpleData>
+		<SimpleData name="LONGITUDE">-122.01919328</SimpleData>
+		<SimpleData name="LATITUDE">47.54504847</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1755</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Highllands</SimpleData>
+		<SimpleData name="ON_STYPE">Dr</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.019191382143291,47.545050940098989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grace Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="FEATURE_ID">570034</SimpleData>
+		<SimpleData name="ADDRESS">9625 NE 8th St</SimpleData>
+		<SimpleData name="ZIP">98009</SimpleData>
+		<SimpleData name="INVENTORY_ID">508</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">50</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1300503.19644</SimpleData>
+		<SimpleData name="YCOORD">228222.708828</SimpleData>
+		<SimpleData name="LONGITUDE">-122.21162094</SimpleData>
+		<SimpleData name="LATITUDE">47.61731581</SimpleData>
+		<SimpleData name="ADDRESS_NUM">9625</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">8th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">96th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2116192693899,47.617317837720044</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Black Diamond Masonic Temple P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="FEATURE_ID">570035</SimpleData>
+		<SimpleData name="ADDRESS">32523 3rd Ave</SimpleData>
+		<SimpleData name="ZIP">98010</SimpleData>
+		<SimpleData name="INVENTORY_ID">590</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">30</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1350014.63398</SimpleData>
+		<SimpleData name="YCOORD">115148.467555</SimpleData>
+		<SimpleData name="LONGITUDE">-122.00392303</SimpleData>
+		<SimpleData name="LATITUDE">47.3096138</SimpleData>
+		<SimpleData name="ADDRESS_NUM">32523</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">3rd</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.003919777837183,47.309616307608323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Renton P&amp;R (Metropolitan Place)</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="FEATURE_ID">570037</SimpleData>
+		<SimpleData name="ADDRESS">232 Burnett Ave S</SimpleData>
+		<SimpleData name="ZIP">98057</SimpleData>
+		<SimpleData name="INVENTORY_ID">756</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">150</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1300586.45227</SimpleData>
+		<SimpleData name="YCOORD">178337.567988</SimpleData>
+		<SimpleData name="LONGITUDE">-122.2076721</SimpleData>
+		<SimpleData name="LATITUDE">47.48058207</SimpleData>
+		<SimpleData name="ADDRESS_NUM">232</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Burnett</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.207669795456297,47.480584119185892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cottage Lake Assembly of God P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">75</SimpleData>
+		<SimpleData name="FEATURE_ID">570038</SimpleData>
+		<SimpleData name="ADDRESS">15737 Avondale Rd</SimpleData>
+		<SimpleData name="ZIP">98072</SimpleData>
+		<SimpleData name="INVENTORY_ID">560</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1333391.11101</SimpleData>
+		<SimpleData name="YCOORD">273424.748104</SimpleData>
+		<SimpleData name="LONGITUDE">-122.08126235</SimpleData>
+		<SimpleData name="LATITUDE">47.74275663</SimpleData>
+		<SimpleData name="ADDRESS_NUM">15737</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Avondale</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.08126136079008,47.742758813437042</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cornerstone United Methodist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="FEATURE_ID">570040</SimpleData>
+		<SimpleData name="ADDRESS">20730 SE 272nd St</SimpleData>
+		<SimpleData name="ZIP">98042</SimpleData>
+		<SimpleData name="INVENTORY_ID">583</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1335298.29191</SimpleData>
+		<SimpleData name="YCOORD">133401.116073</SimpleData>
+		<SimpleData name="LONGITUDE">-122.06441011</SimpleData>
+		<SimpleData name="LATITUDE">47.35901751</SimpleData>
+		<SimpleData name="ADDRESS_NUM">20730</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">272nd</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.064407138301746,47.359019885686706</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shoreline P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="FEATURE_ID">570041</SimpleData>
+		<SimpleData name="ADDRESS">18821 Aurora Ave N</SimpleData>
+		<SimpleData name="ZIP">98133</SimpleData>
+		<SimpleData name="INVENTORY_ID">709</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">393</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1268354.79648</SimpleData>
+		<SimpleData name="YCOORD">283362.930644</SimpleData>
+		<SimpleData name="LONGITUDE">-122.34633926</SimpleData>
+		<SimpleData name="LATITUDE">47.76679993</SimpleData>
+		<SimpleData name="ADDRESS_NUM">18821</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Aurora</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">N</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.346338203026249,47.766801587735372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>North Jackson Park P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="FEATURE_ID">570042</SimpleData>
+		<SimpleData name="ADDRESS">14711 5th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98155</SimpleData>
+		<SimpleData name="INVENTORY_ID">705</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">68</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1273684.18328</SimpleData>
+		<SimpleData name="YCOORD">271941.802078</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32377328</SimpleData>
+		<SimpleData name="LATITUDE">47.73578013</SimpleData>
+		<SimpleData name="ADDRESS_NUM">14711</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">5th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.323772105287333,47.735781919086726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bothell P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="FEATURE_ID">570045</SimpleData>
+		<SimpleData name="ADDRESS">10320 Woodinville Dr</SimpleData>
+		<SimpleData name="ZIP">98011</SimpleData>
+		<SimpleData name="INVENTORY_ID">701</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">220</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1303946.37496</SimpleData>
+		<SimpleData name="YCOORD">280068.937035</SimpleData>
+		<SimpleData name="LONGITUDE">-122.20139861</SimpleData>
+		<SimpleData name="LATITUDE">47.75959715</SimpleData>
+		<SimpleData name="ADDRESS_NUM">10320</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Woodinville</SimpleData>
+		<SimpleData name="ON_STYPE">Dr</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.20139759527305,47.7595991249311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodinville P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="FEATURE_ID">570046</SimpleData>
+		<SimpleData name="ADDRESS">17800 140th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98072</SimpleData>
+		<SimpleData name="INVENTORY_ID">711</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">438</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1315938.48354</SimpleData>
+		<SimpleData name="YCOORD">278739.112297</SimpleData>
+		<SimpleData name="LONGITUDE">-122.15255657</SimpleData>
+		<SimpleData name="LATITUDE">47.75652593</SimpleData>
+		<SimpleData name="ADDRESS_NUM">17800</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">140th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.152555584651608,47.756527981190516</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Houghton P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="FEATURE_ID">570048</SimpleData>
+		<SimpleData name="ADDRESS">7024 116th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98033</SimpleData>
+		<SimpleData name="INVENTORY_ID">717</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">470</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1307308.50013</SimpleData>
+		<SimpleData name="YCOORD">246565.641837</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18533873</SimpleData>
+		<SimpleData name="LATITUDE">47.66792572</SimpleData>
+		<SimpleData name="ADDRESS_NUM">7024</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">116th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.185337311021826,47.667927778878422</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Kirkland P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="FEATURE_ID">570049</SimpleData>
+		<SimpleData name="ADDRESS">10610 NE 38th Pl</SimpleData>
+		<SimpleData name="ZIP">98033</SimpleData>
+		<SimpleData name="INVENTORY_ID">728</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">833</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1304435.74997</SimpleData>
+		<SimpleData name="YCOORD">237934.062971</SimpleData>
+		<SimpleData name="LONGITUDE">-122.19637577</SimpleData>
+		<SimpleData name="LATITUDE">47.64412714</SimpleData>
+		<SimpleData name="ADDRESS_NUM">10612</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">38th</SimpleData>
+		<SimpleData name="ON_STYPE">PL</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">106th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.19637422635445,47.644129188178653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Thornton Place P&amp;R Garage</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="FEATURE_ID">570056</SimpleData>
+		<SimpleData name="ADDRESS">10106 3rd Ave NE</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">760</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">350</SimpleData>
+		<SimpleData name="XCOORD">1272847.8473</SimpleData>
+		<SimpleData name="YCOORD">259569.400454</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32619623</SimpleData>
+		<SimpleData name="LATITUDE">47.70182339</SimpleData>
+		<SimpleData name="ADDRESS_NUM">10106</SimpleData>
+		<SimpleData name="ON_STNAME">3rd</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">100th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.326194909962226,47.701825182036067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ober Park P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="FEATURE_ID">570057</SimpleData>
+		<SimpleData name="ADDRESS">17106 Vashon Hwy SW</SimpleData>
+		<SimpleData name="ZIP">98070</SimpleData>
+		<SimpleData name="INVENTORY_ID">737</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">48</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1237978.62501</SimpleData>
+		<SimpleData name="YCOORD">169111.250158</SimpleData>
+		<SimpleData name="LONGITUDE">-122.46001178</SimpleData>
+		<SimpleData name="LATITUDE">47.45194695</SimpleData>
+		<SimpleData name="ADDRESS_NUM">17106</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Vashon</SimpleData>
+		<SimpleData name="ON_STYPE">Hwy</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.460009299925133,47.451948620981561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Star Lake P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="FEATURE_ID">570059</SimpleData>
+		<SimpleData name="ADDRESS">27015 26th Ave S</SimpleData>
+		<SimpleData name="ZIP">98032</SimpleData>
+		<SimpleData name="INVENTORY_ID">745</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">540</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1277114.57645</SimpleData>
+		<SimpleData name="YCOORD">134191.993078</SimpleData>
+		<SimpleData name="LONGITUDE">-122.29917494</SimpleData>
+		<SimpleData name="LATITUDE">47.35839104</SimpleData>
+		<SimpleData name="ADDRESS_NUM">27015</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">26th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.299171939133501,47.358392898008226</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Maple Valley P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="FEATURE_ID">570060</SimpleData>
+		<SimpleData name="ADDRESS">23033 Renton-Maple Valley Rd</SimpleData>
+		<SimpleData name="ZIP">98038</SimpleData>
+		<SimpleData name="INVENTORY_ID">736</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">122</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1340329.13291</SimpleData>
+		<SimpleData name="YCOORD">146869.659142</SimpleData>
+		<SimpleData name="LONGITUDE">-122.04497063</SimpleData>
+		<SimpleData name="LATITUDE">47.39615544</SimpleData>
+		<SimpleData name="ADDRESS_NUM">23033</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Renton-Maple Valley</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">231st</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.044967886669298,47.39615787231147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tahlequah P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="FEATURE_ID">570062</SimpleData>
+		<SimpleData name="ADDRESS">SW Tahlequah Rd &amp; Vashon Hwy SW</SimpleData>
+		<SimpleData name="ZIP">98070</SimpleData>
+		<SimpleData name="INVENTORY_ID">752</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">36</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1225521.52099</SimpleData>
+		<SimpleData name="YCOORD">126046.479988</SimpleData>
+		<SimpleData name="LONGITUDE">-122.50656492</SimpleData>
+		<SimpleData name="LATITUDE">47.33318081</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">SW</SimpleData>
+		<SimpleData name="ON_STNAME">Tahlequah</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Vashon</SimpleData>
+		<SimpleData name="CROSS_STYPE">Hwy</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SW</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.50656179367887,47.33318228688843</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kent/Des Moines P&amp;R </name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="FEATURE_ID">570063</SimpleData>
+		<SimpleData name="ADDRESS">23405 Military Road S</SimpleData>
+		<SimpleData name="ZIP">98032</SimpleData>
+		<SimpleData name="INVENTORY_ID">735</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">404</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1280250.25011</SimpleData>
+		<SimpleData name="YCOORD">146200.125048</SimpleData>
+		<SimpleData name="LONGITUDE">-122.28744144</SimpleData>
+		<SimpleData name="LATITUDE">47.39146823</SimpleData>
+		<SimpleData name="ADDRESS_NUM">23405</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Military</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.287438615051457,47.391470113542752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Auburn P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="FEATURE_ID">570064</SimpleData>
+		<SimpleData name="ADDRESS">101 15th St NE</SimpleData>
+		<SimpleData name="ZIP">98002</SimpleData>
+		<SimpleData name="INVENTORY_ID">730</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">244</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1294679.61665</SimpleData>
+		<SimpleData name="YCOORD">120229.662822</SimpleData>
+		<SimpleData name="LONGITUDE">-122.22729993</SimpleData>
+		<SimpleData name="LATITUDE">47.32101479</SimpleData>
+		<SimpleData name="ADDRESS_NUM">101</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">15th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.227296720175772,47.321016793657051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5th Ave NE/NE 133rd St P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">90</SimpleData>
+		<SimpleData name="FEATURE_ID">570067</SimpleData>
+		<SimpleData name="ADDRESS">5th Ave NE &amp; NE 133rd St</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">710</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">46</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1273622.81914</SimpleData>
+		<SimpleData name="YCOORD">268382.348859</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32374252</SimpleData>
+		<SimpleData name="LATITUDE">47.72602054</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">5th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">133th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.323741307159523,47.726022334071622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kirkland Way P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="FEATURE_ID">570069</SimpleData>
+		<SimpleData name="ADDRESS">I-405/NE 85th St</SimpleData>
+		<SimpleData name="ZIP">98033</SimpleData>
+		<SimpleData name="INVENTORY_ID">720</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">C</SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1306822.87512</SimpleData>
+		<SimpleData name="YCOORD">250612.686892</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18759834</SimpleData>
+		<SimpleData name="LATITUDE">47.67899551</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">I-5</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">85th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.187596966868,47.678997566371585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Issaquah Transit Center P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">92</SimpleData>
+		<SimpleData name="FEATURE_ID">570071</SimpleData>
+		<SimpleData name="ADDRESS">1050 17th Ave NW</SimpleData>
+		<SimpleData name="ZIP">98027</SimpleData>
+		<SimpleData name="INVENTORY_ID">818</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">819</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1336999.90677</SimpleData>
+		<SimpleData name="YCOORD">200057.523818</SimpleData>
+		<SimpleData name="LONGITUDE">-122.06183757</SimpleData>
+		<SimpleData name="LATITUDE">47.54180643</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1050</SimpleData>
+		<SimpleData name="ON_STNAME">17th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NW</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NW</SimpleData>
+		<SimpleData name="CROSS_STNAME">Maple</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.061835628112291,47.541808809011606</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Korean Covenant Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="FEATURE_ID">570073</SimpleData>
+		<SimpleData name="ADDRESS">14220 Juanita Woodinville Way NE</SimpleData>
+		<SimpleData name="ZIP">98034</SimpleData>
+		<SimpleData name="INVENTORY_ID">597</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">30</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1304497.35811</SimpleData>
+		<SimpleData name="YCOORD">269009.90305</SimpleData>
+		<SimpleData name="LONGITUDE">-122.19836147</SimpleData>
+		<SimpleData name="LATITUDE">47.72931065</SimpleData>
+		<SimpleData name="ADDRESS_NUM">14220</SimpleData>
+		<SimpleData name="ON_STNAME">Juanita Woodinville </SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">142nd</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.198360315111955,47.729312669534757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Burien Church of God P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="FEATURE_ID">570075</SimpleData>
+		<SimpleData name="ADDRESS">16640 1st Ave S</SimpleData>
+		<SimpleData name="ZIP">98148</SimpleData>
+		<SimpleData name="INVENTORY_ID">598</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1269225.39227</SimpleData>
+		<SimpleData name="YCOORD">168867.312143</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33372481</SimpleData>
+		<SimpleData name="LATITUDE">47.45301846</SimpleData>
+		<SimpleData name="ADDRESS_NUM">16640</SimpleData>
+		<SimpleData name="ON_STNAME">1st </SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX">S</SimpleData>
+		<SimpleData name="CROSS_STNAME">168th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.333722334083745,47.453020299248166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mercer Island P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="FEATURE_ID">570078</SimpleData>
+		<SimpleData name="ADDRESS">7800 N Mercer Way</SimpleData>
+		<SimpleData name="ZIP">98040</SimpleData>
+		<SimpleData name="INVENTORY_ID">830</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">447</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1295369.94826</SimpleData>
+		<SimpleData name="YCOORD">217826.286459</SimpleData>
+		<SimpleData name="LONGITUDE">-122.231665</SimpleData>
+		<SimpleData name="LATITUDE">47.58856494</SimpleData>
+		<SimpleData name="ADDRESS_NUM">7800</SimpleData>
+		<SimpleData name="ON_PREFIX">N</SimpleData>
+		<SimpleData name="ON_STNAME">Mercer</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="CROSS_STNAME">78th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.231663189973347,47.588566927007719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sunset Park</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="FEATURE_ID">570082</SimpleData>
+		<SimpleData name="ADDRESS">1306 69th St SE</SimpleData>
+		<SimpleData name="ZIP">98092</SimpleData>
+		<SimpleData name="INVENTORY_ID">564</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">10</SimpleData>
+		<SimpleData name="XCOORD">1297756.54</SimpleData>
+		<SimpleData name="YCOORD">92705.93</SimpleData>
+		<SimpleData name="LONGITUDE">-122.21290814</SimpleData>
+		<SimpleData name="LATITUDE">47.24572369</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1306</SimpleData>
+		<SimpleData name="ON_STNAME">69th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">Lakeland Hills</SimpleData>
+		<SimpleData name="CROSS_STYPE">Way</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.212904534660623,47.245725687718632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lake Meridian P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="FEATURE_ID">570084</SimpleData>
+		<SimpleData name="ADDRESS">26805 132nd Avenue SE</SimpleData>
+		<SimpleData name="ZIP">98031</SimpleData>
+		<SimpleData name="INVENTORY_ID">748</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">172</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1310200.245</SimpleData>
+		<SimpleData name="YCOORD">134600.10691</SimpleData>
+		<SimpleData name="LONGITUDE">-122.16573853</SimpleData>
+		<SimpleData name="LATITUDE">47.36115836</SimpleData>
+		<SimpleData name="ADDRESS_NUM">26805</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">132nd</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.16573555565941,47.361160508339047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>I-5/NE 65th St./Green Lake P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="FEATURE_ID">570085</SimpleData>
+		<SimpleData name="ADDRESS">6601 8th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98115</SimpleData>
+		<SimpleData name="INVENTORY_ID">703</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">411</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1274159.79009</SimpleData>
+		<SimpleData name="YCOORD">250356.367476</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32014645</SimpleData>
+		<SimpleData name="LATITUDE">47.67664036</SimpleData>
+		<SimpleData name="ADDRESS_NUM">6601</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">8th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.320145015876676,47.676642172368545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Family Life Center - Church of God P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="FEATURE_ID">570081</SimpleData>
+		<SimpleData name="ADDRESS">116 Lakeland Hills Way SE</SimpleData>
+		<SimpleData name="ZIP">98092</SimpleData>
+		<SimpleData name="INVENTORY_ID">565</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">27</SimpleData>
+		<SimpleData name="XCOORD">1294023.79015</SimpleData>
+		<SimpleData name="YCOORD">98800.147998</SimpleData>
+		<SimpleData name="LONGITUDE">-122.22837781</SimpleData>
+		<SimpleData name="LATITUDE">47.26224356</SimpleData>
+		<SimpleData name="ADDRESS_NUM">116</SimpleData>
+		<SimpleData name="ON_STNAME">Lakeland Hills</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">E</SimpleData>
+		<SimpleData name="CROSS_STNAME">Valley</SimpleData>
+		<SimpleData name="CROSS_STYPE">Hwy</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.228374271727546,47.262245556241361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bear Creek P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="FEATURE_ID">570086</SimpleData>
+		<SimpleData name="ADDRESS">7760 178th Pl NE</SimpleData>
+		<SimpleData name="ZIP">98052</SimpleData>
+		<SimpleData name="INVENTORY_ID">712</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">283</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1328160.38763</SimpleData>
+		<SimpleData name="YCOORD">248254.727196</SimpleData>
+		<SimpleData name="LONGITUDE">-122.10083469</SimpleData>
+		<SimpleData name="LATITUDE">47.67352837</SimpleData>
+		<SimpleData name="ADDRESS_NUM">7760</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">178th</SimpleData>
+		<SimpleData name="ON_STYPE">Pl</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.100833354963058,47.673530576478399</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilburton P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="FEATURE_ID">570087</SimpleData>
+		<SimpleData name="ADDRESS">720 114th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98005</SimpleData>
+		<SimpleData name="INVENTORY_ID">729</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">186</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1306927</SimpleData>
+		<SimpleData name="YCOORD">222831.48</SimpleData>
+		<SimpleData name="LONGITUDE">-122.1851951</SimpleData>
+		<SimpleData name="LATITUDE">47.60285045</SimpleData>
+		<SimpleData name="ADDRESS_NUM">720</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">114th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.185193379786256,47.602852532396334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastgate P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="FEATURE_ID">570088</SimpleData>
+		<SimpleData name="ADDRESS">14200 SE Eastgate Way</SimpleData>
+		<SimpleData name="ZIP">98007</SimpleData>
+		<SimpleData name="INVENTORY_ID">713</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">1614</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1314883.00007</SimpleData>
+		<SimpleData name="YCOORD">214469.671908</SimpleData>
+		<SimpleData name="LONGITUDE">-122.15236959</SimpleData>
+		<SimpleData name="LATITUDE">47.58030849</SimpleData>
+		<SimpleData name="ADDRESS_NUM">14200</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">Eastgate</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.15236778436018,47.580310642837063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Way/S 320th St P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="FEATURE_ID">570091</SimpleData>
+		<SimpleData name="ADDRESS">32320 23rd Ave S</SimpleData>
+		<SimpleData name="ZIP">98003</SimpleData>
+		<SimpleData name="INVENTORY_ID">733</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">877</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1276447.75</SimpleData>
+		<SimpleData name="YCOORD">117483.06</SimpleData>
+		<SimpleData name="LONGITUDE">-122.30057984</SimpleData>
+		<SimpleData name="LATITUDE">47.31255741</SimpleData>
+		<SimpleData name="ADDRESS_NUM">32320</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">23rd</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.300576577592452,47.312559258439549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Preston P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="FEATURE_ID">570092</SimpleData>
+		<SimpleData name="ADDRESS">30303 SE High Point Way</SimpleData>
+		<SimpleData name="ZIP">98027</SimpleData>
+		<SimpleData name="INVENTORY_ID">725</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">S</SimpleData>
+		<SimpleData name="REG_SPACES">53</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1367701.526</SimpleData>
+		<SimpleData name="YCOORD">194289.837924</SimpleData>
+		<SimpleData name="LONGITUDE">-121.93721296</SimpleData>
+		<SimpleData name="LATITUDE">47.52727139</SimpleData>
+		<SimpleData name="ADDRESS_NUM">30303</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">I-90</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Preston-Fall City</SimpleData>
+		<SimpleData name="CROSS_STYPE">Rd</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.937211089211189,47.527273980719976</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Duvall P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="FEATURE_ID">570098</SimpleData>
+		<SimpleData name="ADDRESS">SR-203 &amp; Woodinville/Duvall Rd</SimpleData>
+		<SimpleData name="ZIP">98019</SimpleData>
+		<SimpleData name="INVENTORY_ID">731</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">49</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1356721.04</SimpleData>
+		<SimpleData name="YCOORD">273360.22</SimpleData>
+		<SimpleData name="LONGITUDE">-121.9864469</SimpleData>
+		<SimpleData name="LATITUDE">47.74357733</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">SR 203</SimpleData>
+		<SimpleData name="ON_STYPE"></SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Woodinville Duvall</SimpleData>
+		<SimpleData name="CROSS_STYPE">Rd</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.98644598914791,47.743579641023267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethel Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="FEATURE_ID">570107</SimpleData>
+		<SimpleData name="ADDRESS">17418 8th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98155</SimpleData>
+		<SimpleData name="INVENTORY_ID">502</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">40</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1274975.13</SimpleData>
+		<SimpleData name="YCOORD">279160.34</SimpleData>
+		<SimpleData name="LONGITUDE">-122.31909428</SimpleData>
+		<SimpleData name="LATITUDE">47.75563432</SimpleData>
+		<SimpleData name="ADDRESS_NUM">17418</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">8th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">10th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.319093189864006,47.75563608467089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shoreline United Methodist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="FEATURE_ID">570108</SimpleData>
+		<SimpleData name="ADDRESS">NE 145th St/25th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98155</SimpleData>
+		<SimpleData name="INVENTORY_ID">566</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1278956.62803</SimpleData>
+		<SimpleData name="YCOORD">271354.25302</SimpleData>
+		<SimpleData name="LONGITUDE">-122.30230519</SimpleData>
+		<SimpleData name="LATITUDE">47.73444754</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">NE</SimpleData>
+		<SimpleData name="ON_STNAME">145th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">25th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.302304011825939,47.734449371886043</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Lukes Lutheran Church - Bellevue P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="FEATURE_ID">570110</SimpleData>
+		<SimpleData name="ADDRESS">3030 Bellevue Way NE</SimpleData>
+		<SimpleData name="ZIP">98004</SimpleData>
+		<SimpleData name="INVENTORY_ID">519</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">30</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1303178</SimpleData>
+		<SimpleData name="YCOORD">235726</SimpleData>
+		<SimpleData name="LONGITUDE">-122.20131807</SimpleData>
+		<SimpleData name="LATITUDE">47.63801355</SimpleData>
+		<SimpleData name="ADDRESS_NUM">3030</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Bellevue</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">30th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Pl</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.201316500587495,47.638015584878893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Newport Hills Community Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="FEATURE_ID">570114</SimpleData>
+		<SimpleData name="ADDRESS">5833 119th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98006</SimpleData>
+		<SimpleData name="INVENTORY_ID">513</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">37</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1308013.04433</SimpleData>
+		<SimpleData name="YCOORD">203957.167898</SimpleData>
+		<SimpleData name="LONGITUDE">-122.17945558</SimpleData>
+		<SimpleData name="LATITUDE">47.55116681</SimpleData>
+		<SimpleData name="ADDRESS_NUM">5833</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">119th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">58th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.179453626530318,47.551168912172045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Klahanie #1 P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="FEATURE_ID">570116</SimpleData>
+		<SimpleData name="ADDRESS">SE Klahanie Blvd/244th Pl SE</SimpleData>
+		<SimpleData name="ZIP">98029</SimpleData>
+		<SimpleData name="INVENTORY_ID">510</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">30</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1348775</SimpleData>
+		<SimpleData name="YCOORD">209996</SimpleData>
+		<SimpleData name="LONGITUDE">-122.01478666</SimpleData>
+		<SimpleData name="LATITUDE">47.5695547</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">Klahanie</SimpleData>
+		<SimpleData name="ON_STYPE">Blvd</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">244th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Pl</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.01478488228625,47.569557156030484</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Holy Family Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="FEATURE_ID">570117</SimpleData>
+		<SimpleData name="ADDRESS">9641 20th Ave SW</SimpleData>
+		<SimpleData name="ZIP">98106</SimpleData>
+		<SimpleData name="INVENTORY_ID">562</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">23</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1263349.95414</SimpleData>
+		<SimpleData name="YCOORD">192317.171921</SimpleData>
+		<SimpleData name="LONGITUDE">-122.35934669</SimpleData>
+		<SimpleData name="LATITUDE">47.51697692</SimpleData>
+		<SimpleData name="ADDRESS_NUM">9641</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">20th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">20th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SW</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.359344543662615,47.51697874081308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>City View Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="FEATURE_ID">570120</SimpleData>
+		<SimpleData name="ADDRESS">255 Hardie Ave SW</SimpleData>
+		<SimpleData name="ZIP">98055</SimpleData>
+		<SimpleData name="INVENTORY_ID">524</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">96</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1297666.01676</SimpleData>
+		<SimpleData name="YCOORD">178289.011591</SimpleData>
+		<SimpleData name="LONGITUDE">-122.21947681</SimpleData>
+		<SimpleData name="LATITUDE">47.48030541</SimpleData>
+		<SimpleData name="ADDRESS_NUM">255</SimpleData>
+		<SimpleData name="ON_STNAME">Hardie </SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.219474498265484,47.480307435511691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Nativity Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="FEATURE_ID">570121</SimpleData>
+		<SimpleData name="ADDRESS">17707 140th Ave</SimpleData>
+		<SimpleData name="ZIP">98058</SimpleData>
+		<SimpleData name="INVENTORY_ID">530</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">49</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1313493.23779</SimpleData>
+		<SimpleData name="YCOORD">164530.431263</SimpleData>
+		<SimpleData name="LONGITUDE">-122.15452678</SimpleData>
+		<SimpleData name="LATITUDE">47.44335528</SimpleData>
+		<SimpleData name="ADDRESS_NUM">17707</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">140th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">177th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.154524282130481,47.443357457747553</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethany Bible Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="FEATURE_ID">570122</SimpleData>
+		<SimpleData name="ADDRESS">6214 Bothell Way NE</SimpleData>
+		<SimpleData name="ZIP">98028</SimpleData>
+		<SimpleData name="INVENTORY_ID">501</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">75</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1289531.82047</SimpleData>
+		<SimpleData name="YCOORD">279998.43027</SimpleData>
+		<SimpleData name="LONGITUDE">-122.25998876</SimpleData>
+		<SimpleData name="LATITUDE">47.75868648</SimpleData>
+		<SimpleData name="ADDRESS_NUM">6214</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Bothell</SimpleData>
+		<SimpleData name="ON_STYPE">Way</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">62nd</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">NE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.259987682666676,47.758688362441319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lamb of God Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="FEATURE_ID">570125</SimpleData>
+		<SimpleData name="ADDRESS">12509 27th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98125</SimpleData>
+		<SimpleData name="INVENTORY_ID">505</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">21</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1279591.38</SimpleData>
+		<SimpleData name="YCOORD">265871.34</SimpleData>
+		<SimpleData name="LONGITUDE">-122.29930184</SimpleData>
+		<SimpleData name="LATITUDE">47.71945216</SimpleData>
+		<SimpleData name="ADDRESS_NUM">12509</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">27th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">NE</SimpleData>
+		<SimpleData name="CROSS_STNAME">125th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.2993005953835,47.719454005177774</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farmers Park P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="FEATURE_ID">570126</SimpleData>
+		<SimpleData name="ADDRESS">SE 436th St/228th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98022</SimpleData>
+		<SimpleData name="INVENTORY_ID">523</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">25</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1341083.99179</SimpleData>
+		<SimpleData name="YCOORD">79203.8957284</SimpleData>
+		<SimpleData name="LONGITUDE">-122.03764814</SimpleData>
+		<SimpleData name="LATITUDE">47.21070785</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">436th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">228th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.037645428818053,47.210709674019057</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sammamish Hills Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="FEATURE_ID">570128</SimpleData>
+		<SimpleData name="ADDRESS">22818 SE 8th St</SimpleData>
+		<SimpleData name="ZIP">98074</SimpleData>
+		<SimpleData name="INVENTORY_ID">588</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">54</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1344029.16508</SimpleData>
+		<SimpleData name="YCOORD">221878.046763</SimpleData>
+		<SimpleData name="LONGITUDE">-122.03476038</SimpleData>
+		<SimpleData name="LATITUDE">47.60192397</SimpleData>
+		<SimpleData name="ADDRESS_NUM">22818</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">8th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">228th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.034758746601568,47.601926352514099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Life Church at Renton P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="FEATURE_ID">570129</SimpleData>
+		<SimpleData name="ADDRESS">15711 152nd Ave SE</SimpleData>
+		<SimpleData name="ZIP">98059</SimpleData>
+		<SimpleData name="INVENTORY_ID">536</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">25</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1317740.14629</SimpleData>
+		<SimpleData name="YCOORD">171883.626564</SimpleData>
+		<SimpleData name="LONGITUDE">-122.13787069</SimpleData>
+		<SimpleData name="LATITUDE">47.46370962</SimpleData>
+		<SimpleData name="ADDRESS_NUM">15711</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">152nd </SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.137868310443537,47.463711842458544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>The Church by the Side of the Road P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="FEATURE_ID">570130</SimpleData>
+		<SimpleData name="ADDRESS">3455 S 148th St</SimpleData>
+		<SimpleData name="ZIP">98168</SimpleData>
+		<SimpleData name="INVENTORY_ID">577</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">28</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1280888.08034</SimpleData>
+		<SimpleData name="YCOORD">175033.147212</SimpleData>
+		<SimpleData name="LONGITUDE">-122.2870652</SimpleData>
+		<SimpleData name="LATITUDE">47.47053249</SimpleData>
+		<SimpleData name="ADDRESS_NUM">3455</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">148th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.287062820260402,47.470534393865073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prince of Peace Lutheran Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">120</SimpleData>
+		<SimpleData name="FEATURE_ID">570014</SimpleData>
+		<SimpleData name="ADDRESS">14514 20th Ave NE</SimpleData>
+		<SimpleData name="ZIP">98155</SimpleData>
+		<SimpleData name="INVENTORY_ID">544</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1277754.3875</SimpleData>
+		<SimpleData name="YCOORD">271354.854471</SimpleData>
+		<SimpleData name="LONGITUDE">-122.30718994</SimpleData>
+		<SimpleData name="LATITUDE">47.73438618</SimpleData>
+		<SimpleData name="ADDRESS_NUM">14514</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">20th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">NE</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.307188761149533,47.734388006133642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Lukes Lutheran Church - Fed Way P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="FEATURE_ID">570018</SimpleData>
+		<SimpleData name="ADDRESS">515 S 312th St</SimpleData>
+		<SimpleData name="ZIP">98003</SimpleData>
+		<SimpleData name="INVENTORY_ID">547</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1270112.86</SimpleData>
+		<SimpleData name="YCOORD">121081.31</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32639223</SimpleData>
+		<SimpleData name="LATITUDE">47.32208613</SimpleData>
+		<SimpleData name="ADDRESS_NUM">515</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">312th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.326389025673308,47.322087928268097</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Beverly Park First Baptist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">122</SimpleData>
+		<SimpleData name="FEATURE_ID">570019</SimpleData>
+		<SimpleData name="ADDRESS">11659 1st Ave S</SimpleData>
+		<SimpleData name="ZIP">98168</SimpleData>
+		<SimpleData name="INVENTORY_ID">550</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">12</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1269497.58379</SimpleData>
+		<SimpleData name="YCOORD">185296.233722</SimpleData>
+		<SimpleData name="LONGITUDE">-122.33391933</SimpleData>
+		<SimpleData name="LATITUDE">47.49806416</SimpleData>
+		<SimpleData name="ADDRESS_NUM">11659</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">1st</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX">S</SimpleData>
+		<SimpleData name="CROSS_STNAME">116th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.333917104586064,47.498066014476358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Redondo Heights P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="FEATURE_ID">570029</SimpleData>
+		<SimpleData name="ADDRESS">27454 Pacific Hwy S</SimpleData>
+		<SimpleData name="ZIP">98003</SimpleData>
+		<SimpleData name="INVENTORY_ID">757</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">697</SimpleData>
+		<SimpleData name="ACCESSIBLE">17</SimpleData>
+		<SimpleData name="XCOORD">1274349.75</SimpleData>
+		<SimpleData name="YCOORD">133091.438</SimpleData>
+		<SimpleData name="LONGITUDE">-122.31024245</SimpleData>
+		<SimpleData name="LATITUDE">47.35522955</SimpleData>
+		<SimpleData name="ADDRESS_NUM">27454</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Pacific</SimpleData>
+		<SimpleData name="ON_STYPE">Hwy</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX">S</SimpleData>
+		<SimpleData name="CROSS_STNAME">276th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.310239427309483,47.355231389654641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Aurora Village Transit Center P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="FEATURE_ID">570033</SimpleData>
+		<SimpleData name="ADDRESS">1524 N 200th St</SimpleData>
+		<SimpleData name="ZIP">98133</SimpleData>
+		<SimpleData name="INVENTORY_ID">754</SimpleData>
+		<SimpleData name="DISTRICT">N</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">202</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1269606.50007</SimpleData>
+		<SimpleData name="YCOORD">286273.125085</SimpleData>
+		<SimpleData name="LONGITUDE">-122.34148233</SimpleData>
+		<SimpleData name="LATITUDE">47.77484398</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1524</SimpleData>
+		<SimpleData name="ON_PREFIX">N</SimpleData>
+		<SimpleData name="ON_STNAME">200th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.341481298338167,47.774845612124835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodinville Unitarian Universalist P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="FEATURE_ID">570039</SimpleData>
+		<SimpleData name="ADDRESS">19020 Woodinville/Duvall Rd</SimpleData>
+		<SimpleData name="ZIP">98072</SimpleData>
+		<SimpleData name="INVENTORY_ID">559</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">30</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1332920.11</SimpleData>
+		<SimpleData name="YCOORD">278796.66</SimpleData>
+		<SimpleData name="LONGITUDE">-122.08353103</SimpleData>
+		<SimpleData name="LATITUDE">47.75746072</SimpleData>
+		<SimpleData name="ADDRESS_NUM">19020</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Woodinville Duvall</SimpleData>
+		<SimpleData name="ON_STYPE">Rd</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.083530123822328,47.757462869488585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Snoqualmie Community Park P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="FEATURE_ID">570052</SimpleData>
+		<SimpleData name="ADDRESS">35016 SE Ridge St</SimpleData>
+		<SimpleData name="ZIP">98065</SimpleData>
+		<SimpleData name="INVENTORY_ID">631</SimpleData>
+		<SimpleData name="DISTRICT">E</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="XCOORD">1383571.18028</SimpleData>
+		<SimpleData name="YCOORD">196232.600114</SimpleData>
+		<SimpleData name="LONGITUDE">-121.87309103</SimpleData>
+		<SimpleData name="LATITUDE">47.53320281</SimpleData>
+		<SimpleData name="ADDRESS_NUM">35016</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">Ridge</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.873089282621976,47.533205450720729</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>South Federal Way P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="FEATURE_ID">570058</SimpleData>
+		<SimpleData name="ADDRESS">901 S 348th St</SimpleData>
+		<SimpleData name="ZIP">98003</SimpleData>
+		<SimpleData name="INVENTORY_ID">741</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">515</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1270848.12489</SimpleData>
+		<SimpleData name="YCOORD">109161.680096</SimpleData>
+		<SimpleData name="LONGITUDE">-122.32249871</SimpleData>
+		<SimpleData name="LATITUDE">47.28945401</SimpleData>
+		<SimpleData name="ADDRESS_NUM">901</SimpleData>
+		<SimpleData name="ON_PREFIX">S</SimpleData>
+		<SimpleData name="ON_STNAME">348th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.322495327036322,47.289455811288676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Hill Friends Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="FEATURE_ID">570072</SimpleData>
+		<SimpleData name="ADDRESS">22600 116th Ave SE</SimpleData>
+		<SimpleData name="ZIP">98031</SimpleData>
+		<SimpleData name="INVENTORY_ID">596</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="REG_SPACES">20</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1305273.64561</SimpleData>
+		<SimpleData name="YCOORD">148575.582343</SimpleData>
+		<SimpleData name="LONGITUDE">-122.18660428</SimpleData>
+		<SimpleData name="LATITUDE">47.39923043</SimpleData>
+		<SimpleData name="ADDRESS_NUM">22600</SimpleData>
+		<SimpleData name="ON_STNAME">116th </SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">SE</SimpleData>
+		<SimpleData name="CROSS_PREFIX">SE</SimpleData>
+		<SimpleData name="CROSS_STNAME">225th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.186601513974921,47.399232523531019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Valley Center P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="FEATURE_ID">570083</SimpleData>
+		<SimpleData name="ADDRESS">20221 Vashon hwy SW</SimpleData>
+		<SimpleData name="ZIP">98070</SimpleData>
+		<SimpleData name="INVENTORY_ID">747</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">55</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1237506.91</SimpleData>
+		<SimpleData name="YCOORD">158595.72</SimpleData>
+		<SimpleData name="LONGITUDE">-122.46101921</SimpleData>
+		<SimpleData name="LATITUDE">47.42309789</SimpleData>
+		<SimpleData name="ADDRESS_NUM">20221</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Vashon</SimpleData>
+		<SimpleData name="ON_STYPE">Hwy</SimpleData>
+		<SimpleData name="ON_SUFFIX">SW</SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.461016567877209,47.423099527149922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kent/James Street P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="FEATURE_ID">570090</SimpleData>
+		<SimpleData name="ADDRESS">902 W James St</SimpleData>
+		<SimpleData name="ZIP">98032</SimpleData>
+		<SimpleData name="INVENTORY_ID">734</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">KC</SimpleData>
+		<SimpleData name="REG_SPACES">713</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1291130.63</SimpleData>
+		<SimpleData name="YCOORD">143858.98</SimpleData>
+		<SimpleData name="LONGITUDE">-122.24335077</SimpleData>
+		<SimpleData name="LATITUDE">47.38560609</SimpleData>
+		<SimpleData name="ADDRESS_NUM">902</SimpleData>
+		<SimpleData name="ON_PREFIX">W</SimpleData>
+		<SimpleData name="ON_STNAME">James</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME"></SimpleData>
+		<SimpleData name="CROSS_STYPE"></SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.243347918023247,47.385608050308619</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Kent United Methodist Church P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="FEATURE_ID">570124</SimpleData>
+		<SimpleData name="ADDRESS">11010 SE 248th St</SimpleData>
+		<SimpleData name="ZIP">98031</SimpleData>
+		<SimpleData name="INVENTORY_ID">527</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">23</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1303229.62508</SimpleData>
+		<SimpleData name="YCOORD">141560.672057</SimpleData>
+		<SimpleData name="LONGITUDE">-122.19435529</SimpleData>
+		<SimpleData name="LATITUDE">47.37990336</SimpleData>
+		<SimpleData name="ADDRESS_NUM">11010</SimpleData>
+		<SimpleData name="ON_PREFIX">SE</SimpleData>
+		<SimpleData name="ON_STNAME">248th</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">110th</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">SE</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.194352415330428,47.379905442161281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Sacred Heart Church of Enumclaw P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="FEATURE_ID">570131</SimpleData>
+		<SimpleData name="ADDRESS">1614 Farrelly St</SimpleData>
+		<SimpleData name="ZIP">98022</SimpleData>
+		<SimpleData name="INVENTORY_ID">578</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">L</SimpleData>
+		<SimpleData name="OWNER"></SimpleData>
+		<SimpleData name="REG_SPACES">40</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1348299.12484</SimpleData>
+		<SimpleData name="YCOORD">77407.1799573</SimpleData>
+		<SimpleData name="LONGITUDE">-122.00851325</SimpleData>
+		<SimpleData name="LATITUDE">47.20608867</SimpleData>
+		<SimpleData name="ADDRESS_NUM">1614</SimpleData>
+		<SimpleData name="ON_PREFIX"></SimpleData>
+		<SimpleData name="ON_STNAME">Farrelly</SimpleData>
+		<SimpleData name="ON_STYPE">St</SimpleData>
+		<SimpleData name="ON_SUFFIX"></SimpleData>
+		<SimpleData name="CROSS_PREFIX"></SimpleData>
+		<SimpleData name="CROSS_STNAME">Griffin</SimpleData>
+		<SimpleData name="CROSS_STYPE">Ave</SimpleData>
+		<SimpleData name="CROSS_SUFFIX"></SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.00851080542833,47.206090444518154</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tukwila International Blvd Station P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="FEATURE_ID">570134</SimpleData>
+		<SimpleData name="ADDRESS">International and Southcenter Blvd S</SimpleData>
+		<SimpleData name="ZIP">98188</SimpleData>
+		<SimpleData name="INVENTORY_ID">890</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">600</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1280500.58769</SimpleData>
+		<SimpleData name="YCOORD">173014.627672</SimpleData>
+		<SimpleData name="LONGITUDE">-122.28847735</SimpleData>
+		<SimpleData name="LATITUDE">47.46497966</SimpleData>
+		<SimpleData name="ADDRESS_NUM">0</SimpleData>
+		<SimpleData name="ON_STNAME">International</SimpleData>
+		<SimpleData name="ON_STYPE">Blvd</SimpleData>
+		<SimpleData name="CROSS_STNAME">Southcenter</SimpleData>
+		<SimpleData name="CROSS_STYPE">Blvd</SimpleData>
+		<SimpleData name="CROSS_SUFFIX">S</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.288474938576471,47.464981555471489</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Angle Lake Station P&amp;R</name>
+	<ExtendedData><SchemaData schemaUrl="#OGRGeoJSON">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="FEATURE_ID">570148</SimpleData>
+		<SimpleData name="ADDRESS">20015 28th Ave S</SimpleData>
+		<SimpleData name="ZIP">98188</SimpleData>
+		<SimpleData name="INVENTORY_ID">891</SimpleData>
+		<SimpleData name="DISTRICT">S</SimpleData>
+		<SimpleData name="OWNERSHIP_TYPE">P</SimpleData>
+		<SimpleData name="OWNER">ST</SimpleData>
+		<SimpleData name="REG_SPACES">1120</SimpleData>
+		<SimpleData name="ACCESSIBLE">0</SimpleData>
+		<SimpleData name="XCOORD">1277838.295</SimpleData>
+		<SimpleData name="YCOORD">157478.855</SimpleData>
+		<SimpleData name="LONGITUDE">-122.29804332</SimpleData>
+		<SimpleData name="LATITUDE">47.42225775</SimpleData>
+		<SimpleData name="ADDRESS_NUM">20015</SimpleData>
+		<SimpleData name="ON_STNAME">28th</SimpleData>
+		<SimpleData name="ON_STYPE">Ave</SimpleData>
+		<SimpleData name="ON_SUFFIX">S</SimpleData>
+		<SimpleData name="CROSS_PREFIX">S</SimpleData>
+		<SimpleData name="CROSS_STNAME">200th</SimpleData>
+		<SimpleData name="CROSS_STYPE">St</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-122.29804066859721,47.422259631356788</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
